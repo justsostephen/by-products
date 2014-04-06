@@ -1,0 +1,129 @@
+html, body, header, footer, a, h1, h2, h3, h4, p, ul, li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #fff;
+    color: #444;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 62.5%;
+    max-width: 720px;
+    margin: auto;
+    padding: 24px;
+}
+
+header {
+    border-bottom: 1px solid #444;
+    margin-bottom: 2.4em;
+}
+
+footer {
+    text-align: center;
+    border-top: 1px solid #444;
+    margin-top: 4.8em;
+}
+
+a {
+    color: #0080ff;
+    text-decoration: none;
+}
+
+a:hover, a:focus, a:active {
+    text-decoration: underline;
+}
+
+h1, h2, h3, h4 {
+    color: #ff8000;
+    font-weight: inherit;
+    margin-top: 1em;
+}
+
+h1 {
+    font-size: 2.8em;
+}
+
+h2 {
+    font-size: 2.2em;
+}
+
+h3 {
+    font-size: 1.8em;
+}
+
+h4 {
+    margin-top: 0;
+}
+
+h4, p, li {
+    font-size: 1.6em;
+}
+
+p {
+    margin-top: 1em;
+}
+
+.small_text {
+    font-size: 1.4em;
+}
+
+.nested_small_text {
+    font-size: 0.875em;
+}
+
+ul {
+    padding-left: 40px;
+}
+
+.flat_list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#title {
+    clear: right;
+}
+
+#tag_line {
+    text-align: right;
+    margin: 0 0 8px;
+}
+
+.social_icon {
+    width: 16px;
+    height: 16px;
+    margin: 0 8px 8px;
+    float: right;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    color: transparent;
+    font-size: 0;
+}
+
+.social_icon:hover, .social_icon:focus, .social_icon:active {
+    opacity: 1;
+}
+
+.github {
+    background-image: url("img/github.svg");
+    width: 15px;
+}
+
+.twitter {
+    background-image: url("img/twitter.svg");
+    height: 14px;
+}
+
+.linkedin {
+    background-image: url("img/linkedin.svg");
+}
+
+.gplus {
+    background-image: url("img/gplus.svg");
+}
+
+.facebook {
+    background-image: url("img/facebook.svg");
+    width: 8px;
+}
