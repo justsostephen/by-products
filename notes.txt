@@ -4,7 +4,6 @@ Notes
 Status
 ------
 
-* Thinking navbar and jumbotron for homepage
 * Create homepage and one additional page (Assimilator), then style
 * Icon for home on navbar (initials)
 * Consider linter
