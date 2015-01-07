@@ -4,8 +4,9 @@ Notes
 Status
 ------
 
-* Create homepage and one additional page (Assimilator), then style
-* Icon for home on navbar (initials)
-* Consider linter
+* Always check components before examples
+* Linter
 * "Built with grit and determination."
 * Uncomment Analytics code
+* Check navbar content fits at smallest width
+* Recompile Less?

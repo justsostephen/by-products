@@ -1,0 +1,156 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #369;
+  /* margin-bottom equal to .footer height. */
+  margin-bottom: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+#header-sub {
+  font-size: 24px;
+}
+
+dt {
+  font-weight: 600;
+}
+
+.lead {
+  font-weight: 400;
+}
+
+a, a:hover, a:focus {
+  color: #396;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-default {
+  background-color: #369;
+}
+
+.navbar-static-top {
+  border-bottom-width: 0;
+}
+
+.navbar-default .navbar-nav li a {
+  color: #eee8d5;
+  transition: color 0.2s ease-in-out;
+}
+
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav li a:focus {
+  color: #396;
+}
+
+.navbar-default .navbar-nav .active a,
+.navbar-default .navbar-nav .active a:hover,
+.navbar-default .navbar-nav .active a:focus {
+  color: #396;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-brand {
+  color: #eee8d5;
+  transition: color 0.2s ease-in-out;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #396;
+}
+
+.navbar-default .navbar-brand.active,
+.navbar-default .navbar-brand.active:hover,
+.navbar-default .navbar-brand.active:focus {
+  color: #396;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar,
+.navbar-default .navbar-toggle:hover .icon-bar,
+.navbar-default .navbar-toggle:focus .icon-bar {
+  background-color: #396;
+}
+
+.navbar-default .navbar-toggle.collapsed .icon-bar {
+  background-color: #eee8d5;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.navbar-default .navbar-toggle.collapsed:hover .icon-bar,
+.navbar-default .navbar-toggle.collapsed:focus .icon-bar {
+  background-color: #396;
+}
+
+.navbar-toggle {
+  border-width: 0;
+}
+
+.navbar-default .navbar-collapse {
+  border-color: #eee8d5;
+}
+
+.navbar-collapse {
+  box-shadow: none;
+}
+
+.navbar-right {
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.navbar-right li {
+  display: inline-block;
+}
+
+.navbar-right li a {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.body-header {
+  background-color: #eee8d5;
+  text-align: center;
+  padding: 22px 0 33px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  border: 6px solid;
+  border-radius: 50%;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 1.7;
+  margin: 22px auto;
+}
+
+.body-main {
+  padding: 44px 0;
+}
+
+.body-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* height equal to body margin-bottom. */
+  height: 50px;
+  color: #fff;
+  background-color: #369;
+  text-align: center;
+  padding: 11px 0;
+}
