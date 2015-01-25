@@ -4,9 +4,37 @@ Notes
 Status
 ------
 
-* Always check components before examples
-* Linter
-* "Built with grit and determination."
-* Uncomment Analytics code
-* Check navbar content fits at smallest width
-* Recompile Less?
+* All code checked
+* All pages tested in Firefox, Chrome, Safari, iOS Safari
+* All links checked
+* All pages passed W3C HTML5 validation
+* CSS passed W3C validation
+
+* Git commit
+/* Bootlint
+* Test 404 and 403 pages
+* Update GitHub links
+
+https://www.youtube.com/watch?v=Xe1TZaElTAs
+
+# Software Developer
+
+My name is Stephen Mather. I am a software developer. I haven't quite hit my 10,000 hours (http://en.wikipedia.org/wiki/Outliers_%28book%29) yet, but I endeavour to keep racking them up each and every day. This site is a showcase for the things I create: solutions to problems; manifestations of random ideas; the products of assignments from my studies.
+
+Coding aside, I am well versed in the ways of Linux and I know a thing or two about using Git for version control.
+
+# Education
+
+I am self taught, with a little help along the way from Udacity (http://en.wikipedia.org/wiki/Udacity). Mr Thrun (http://en.wikipedia.org/wiki/Sebastian_Thrun) and co, I commend you - your creation is a wonderful resource. With Udacity I am not only learning how to write code, but getting real insight into the theory and concepts of computer science.
+
+I have completed CS101: Intro to Computer Science (https://www.udacity.com/course/cs101), gaining a verified certificate of completion (certificate.pdf) for the course. I received very positive feedback (IntroductiontoComputerScience-ProjectEvaluation1-StephenMather.pdf) for my final project, which can be found on GitHub (social_network.py). I have also completed UD036: Programming Foundations with Python (https://www.udacity.com/course/ud036), however as this seemed somewhat supplementary to CS101, I couldn't justify the cost of the verified certification. I am currently studying CS212: Design of Computer Programs (https://www.udacity.com/course/cs212) and intend to enrol in a Nanodegree (https://www.udacity.com/nanodegree) in the near future.
+
+# Projects
+
+## Assimilator (assimilator.html)
+
+I currently work for a company (http://lumiinsight.com/) that, amongst other things, provides silent auction technology and services. When preparing our software for such events, we usually need to process a large number of auction lot images, making them equal dimensions, DPI, etc. Doing this manually, image by image, is a rather time consuming (not to mention mind numbing!) task. I wrote Assimilator (assimilator.html) to automate the job.
+
+## Track (track.html)
+
+The company (http://lumiinsight.com/) I currently work for have a large stock of tablets. We needed a way to catalogue these devices, whilst controlling their issue and return on events. Track (track.html) is the solution to that problem.
