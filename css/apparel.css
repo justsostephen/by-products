@@ -156,7 +156,8 @@ a, a:hover, a:focus {
 }
 
 .screenshot {
-  margin: 44px 0;
+  max-width: 1024px;
+  margin: 44px auto;
 }
 
 .screenshot img {
@@ -165,12 +166,18 @@ a, a:hover, a:focus {
 }
 
 .about-row {
-  padding-bottom: 44px;
+  padding-bottom: 99px;
 }
 
 .about-icon {
-  font-size: 210px;
-  margin-top: 22px;
+  font-size: 220px;
+  margin: 22px 0 11px;
+}
+
+@media (min-width: 768px) {
+  .about-icon {
+    font-size: 260px;
+  }
 }
 
 .file-row {
