@@ -1,0 +1,27 @@
+An inquiring mind with a predilection for technology, I have taken to studying various aspects of software development. These are the things I have created along the way - my portfolio, if you will.
+
+[I'm Stephen Mather. I love developing software. I've created things using Python, Django, HTML and CSS - you can see some of them here. I'm currently taking a look at Swift.]
+
+Comments, suggestions, bugs? Just want to say hello? <a href="http://www.google.com/recaptcha/mailhide/d?k=01G8rprQHZSm0mvK-YyLlTWg==&amp;c=xQ-ugWqYR50tuq-ZnjXle5XBB_8UZ8mQ7_UIF1GVaFs=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501G8rprQHZSm0mvK-YyLlTWg\75\75\46c\75xQ-ugWqYR50tuq-ZnjXle5XBB_8UZ8mQ7_UIF1GVaFs\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;">Drop me a quick note!</a>
+
+[Interested in working together? Just want to say hello? <a href="http://www.google.com/recaptcha/mailhide/d?k=01G8rprQHZSm0mvK-YyLlTWg==&amp;c=xQ-ugWqYR50tuq-ZnjXle5XBB_8UZ8mQ7_UIF1GVaFs=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501G8rprQHZSm0mvK-YyLlTWg\75\75\46c\75xQ-ugWqYR50tuq-ZnjXle5XBB_8UZ8mQ7_UIF1GVaFs\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;">Drop me a quick note!</a>]
+
+
+Software Developer
+
+My name is Stephen Mather. I am a software developer. I haven't quite hit my <a href="http://en.wikipedia.org/wiki/Outliers_%28book%29">10,000 hours</a> yet, but I endeavour to keep racking them up each and every day. This site is a showcase for the things I create: solutions to problems; manifestations of random ideas; the products of assignments from my studies.
+
+Coding aside, I am well versed in the ways of Linux and I know a thing or two about using Git for version control.
+
+[Endeavouring to reach my <a href="http://en.wikipedia.org/wiki/Outliers_%28book%29">10,000 hours</a> and beyond, I'm constantly tinkering with something. This site is a showcase for the things I create: solutions to problems; manifestations of random ideas; the products of assignments from my studies.
+
+I have experience developing full stack Web solutions, command line utilities and sys admin scripts. Coding aside, I know a thing or two about using Git for version control and I am well versed in the ways of Linux.]
+
+
+Education
+
+I am self taught, with a little help along the way from <a href="http://en.wikipedia.org/wiki/Udacity">Udacity</a>. <a href="http://en.wikipedia.org/wiki/Sebastian_Thrun">Mr Thrun</a> and co, I commend you - your creation is a wonderful resource. With Udacity I am not only learning how to write code, but getting real insight into the theory and concepts of computer science.
+
+I have completed <a href="http://www.udacity.com/course/cs101">CS101: Intro to Computer Science</a>, gaining a <a href="education/cs101-certificate.pdf">verified certificate of completion</a> for the course. I received <a href="education/cs101-evaluation.pdf">very positive feedback</a> for my final project, which can be found on <a href="http://gist.github.com/justsostephen/490d886f6763bfe928ea">GitHub</a>. I have also completed <a href="http://www.udacity.com/course/ud036">UD036: Programming Foundations with Python</a>, however as this seemed somewhat supplementary to CS101, I couldn't justify the cost of the verified certification. I am currently studying <a href="http://www.udacity.com/course/cs212">CS212: Design of Computer Programs</a> and intend to enrol in a <a href="http://www.udacity.com/nanodegree">Nanodegree</a> in the near future.
+
+[I have completed <a href="http://www.udacity.com/courses/cs101">CS101: Intro to Computer Science</a>, gaining a <a href="education/cs101-certificate.pdf">verified certificate of completion</a> for the course. I received <a href="education/cs101-evaluation.pdf">very positive feedback</a> for my final project, which can be found on <a href="http://gist.github.com/justsostephen/490d886f6763bfe928ea">GitHub</a>. I have also completed <a href="http://www.udacity.com/courses/ud036">UD036: Programming Foundations with Python</a> and <a href="http://www.udacity.com/courses/ud804">UD804: JavaScript Basics</a>, however as these seemed somewhat supplementary, I couldn't justify the cost of the verified certification. I am currently studying <a href="http://www.udacity.com/courses/ud585">UD585: Intro to iOS App Development with Swift</a>.]

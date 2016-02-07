@@ -1,4 +1,37 @@
-Notes
-=====
+Primary: Blue 500 #2196F3
+Secondary: Pink A400 #F50057
+Tertiary: White #FFFFFF (alpha 0.7)
 
 * Bootlint
+* /Library/WebServer/Documents/sm/
+* apachectl start/graceful-stop
+
+/+ Google Plus logo
+/+ Colour palette
+/+ Increase navbar font weight
+/+ favicon.png
+/+ apple-touch-icon.png
+/+ Palette swatch
+/+ Navbar drop shadow
+/+ Sticky navbar
+/+ Merge Home and About
+/+ CSS animations
+/+ Copyright notice date
+/+ Copy
+/+ Accessibility test
++ Font size
++ org forward
++ Twitter embed
++ Templates
+
++ Higher res Track images
++ Samsung Note 10.1 About image glitches
+
+- Font Awesome updated to 4.5.0
+- Colour palette changed
+- Changed to fixed navbar
+- index.html and about.html merged
+- Content now fades in on page load
+- Copyright notice date updated
+- Copy updated
+- .gitignore updated

@@ -5,11 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="By-products of a coding adventure.">
-    <meta name="keywords" content="Stephen Mather, software developer, Assimilator, Track, Python, Django">
+    <meta name="keywords" content="Stephen Mather, software developer, Assimilator, Track, Python, Django, HTML, CSS">
     <meta name="author" content="Stephen Mather">
     <title>Stephen Mather &middot; By-products of a coding adventure.</title>
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet" type="text/css">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet" type="text/css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="css/apparel.css" rel="stylesheet" type="text/css">
     <link rel="icon" type="image/png" href="favicon.png">
@@ -30,9 +30,9 @@
     </script>
   </head>
   <body>
-    
+
     <a href="#content-start" class="sr-only sr-only-focusable">Skip to main content</a>
-    <nav class="navbar navbar-default navbar-static-top">
+    <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <!-- Group brand and toggle for better mobile display. -->
         <div class="navbar-header">
@@ -47,7 +47,6 @@
         <!-- Collect nav content for toggling. -->
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="nav navbar-nav">
-            <li><a href="about.html">About</a></li>
             <li><a href="assimilator.html">Assimilator</a></li>
             <li><a href="track.html">Track</a></li>
           </ul>
@@ -62,31 +61,89 @@
         </div> <!-- /.collapse .navbar-collapse #navbar -->
       </div> <!-- /.container -->
     </nav>
-    
-    <header class="body-header" id="content-start">
+
+    <header class="body-header fade-in" id="content-start">
       <div class="container">
         <div class="logo">SM</div>
         <h1>By-products of a coding adventure.</h1>
       </div>
     </header>
-    
-    <main class="body-main" role="main">
+
+    <main class="body-main fade-in" role="main">
       <div class="container">
-        <p class="lead text-center">An inquiring mind with a predilection for technology, I have taken to studying various aspects of software development. These are the things I have created along the way - my portfolio, if you will.</p>
-        <p class="lead text-center">Comments, suggestions, bugs? Just want to say hello? <a href="http://www.google.com/recaptcha/mailhide/d?k=01G8rprQHZSm0mvK-YyLlTWg==&amp;c=xQ-ugWqYR50tuq-ZnjXle5XBB_8UZ8mQ7_UIF1GVaFs=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501G8rprQHZSm0mvK-YyLlTWg\75\75\46c\75xQ-ugWqYR50tuq-ZnjXle5XBB_8UZ8mQ7_UIF1GVaFs\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;">Drop me a quick note!</a></p>
+        <p class="lead text-center">I'm Stephen Mather. I love developing software. I've created things using Python, Django, HTML and CSS - you can see some of them here. I'm currently taking a look at Swift.</p>
+        <p class="lead lead-bottom text-center">Interested in working together? Just want to say hello? <a href="http://www.google.com/recaptcha/mailhide/d?k=01G8rprQHZSm0mvK-YyLlTWg==&amp;c=xQ-ugWqYR50tuq-ZnjXle5XBB_8UZ8mQ7_UIF1GVaFs=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501G8rprQHZSm0mvK-YyLlTWg\75\75\46c\75xQ-ugWqYR50tuq-ZnjXle5XBB_8UZ8mQ7_UIF1GVaFs\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;">Drop me a quick note!</a></p>
+        <div class="row about-row">
+          <div class="col-sm-6 col-sm-push-6 text-center">
+            <span class="fa fa-rocket about-icon"></span>
+          </div>
+          <div class="col-sm-6 col-sm-pull-6">
+            <h2>Software Developer</h2>
+            <p>Endeavouring to reach my <a href="http://en.wikipedia.org/wiki/Outliers_%28book%29">10,000 hours</a> and beyond, I'm constantly tinkering with something. This site is a showcase for the things I create: solutions to problems; manifestations of random ideas; the products of assignments from my studies.</p>
+            <p>I have experience developing full stack Web solutions, command line utilities and sys admin scripts. Coding aside, I know a thing or two about using Git for version control and I am well versed in the ways of Linux.</p>
+          </div>
+        </div>
+        <div class="row about-row">
+          <div class="col-sm-6 text-center">
+            <span class="fa fa-graduation-cap about-icon"></span>
+          </div>
+          <div class="col-sm-6">
+            <h2>Education</h2>
+            <p>I am self taught, with a little help along the way from <a href="http://en.wikipedia.org/wiki/Udacity">Udacity</a>. <a href="http://en.wikipedia.org/wiki/Sebastian_Thrun">Mr Thrun</a> and co, I commend you - your creation is a wonderful resource. With Udacity I am not only learning how to write code, but getting real insight into the theory and concepts of computer science.</p>
+            <p>I have completed <a href="http://www.udacity.com/courses/cs101">CS101: Intro to Computer Science</a>, gaining a <a href="education/cs101-certificate.pdf">verified certificate of completion</a> for the course. I received <a href="education/cs101-evaluation.pdf">very positive feedback</a> for my final project, which can be found on <a href="http://gist.github.com/justsostephen/490d886f6763bfe928ea">GitHub</a>. I have also completed <a href="http://www.udacity.com/courses/ud036">UD036: Programming Foundations with Python</a> and <a href="http://www.udacity.com/courses/ud804">UD804: JavaScript Basics</a>, however as these seemed somewhat supplementary, I couldn't justify the cost of the verified certification. I am currently studying <a href="http://www.udacity.com/courses/ud585">UD585: Intro to iOS App Development with Swift</a>.</p>
+            <div class="row file-row">
+              <div class="col-xs-4 text-center">
+                <a href="http://gist.github.com/justsostephen/490d886f6763bfe928ea">
+                  <figure>
+                    <span class="fa fa-file-code-o fa-2x"></span>
+                    <figcaption><small>CS101 Project</small></figcaption>
+                  </figure>
+                </a>
+              </div>
+              <div class="col-xs-4 text-center">
+                <a href="education/cs101-evaluation.pdf">
+                  <figure>
+                    <span class="fa fa-file-pdf-o fa-2x"></span>
+                    <figcaption><small>CS101 Evaluation</small></figcaption>
+                  </figure>
+                </a>
+              </div>
+              <div class="col-xs-4 text-center">
+                <a href="education/cs101-certificate.pdf">
+                  <figure>
+                    <span class="fa fa-file-pdf-o fa-2x"></span>
+                    <figcaption><small>CS101 Certificate</small></figcaption>
+                  </figure>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row about-row">
+          <div class="col-sm-6 col-sm-push-6 text-center">
+            <span class="fa fa-cogs about-icon"></span>
+          </div>
+          <div class="col-sm-6 col-sm-pull-6">
+            <h2>Projects</h2>
+            <h3><a href="assimilator.html">Assimilator</a></h3>
+            <p>I worked for a <a href="http://lumiinsight.com/">company</a> that, amongst other things, provides silent auction technology and services. When preparing their software for such events, they usually need to process a large number of auction lot images, making them equal dimensions, DPI, etc. Doing this manually, image by image, is a rather time consuming (not to mention mind numbing!) task. I wrote <a href="assimilator.html">Assimilator</a> to automate the job.</p>
+            <h3><a href="track.html">Track</a></h3>
+            <p>I worked for a <a href="http://lumiinsight.com/">company</a> that has a large stock of tablets. They needed a way to catalogue these devices, whilst controlling their issue and return on events. <a href="track.html">Track</a> is the solution to that problem.</p>
+          </div>
+        </div>
       </div>
     </main>
-    
+
     <footer class="body-footer">
       <div class="container">
-        <small>Copyright &copy; 2013-2015 Stephen Mather</small>
+        <small>Copyright &copy; 2013-2016 Stephen Mather</small>
       </div>
     </footer>
-    
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed. -->
     <script src="js/bootstrap.min.js"></script>
-    
+
   </body>
 </html>
