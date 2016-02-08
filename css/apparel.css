@@ -37,7 +37,7 @@ a, a:hover, a:focus {
 
 .navbar-fixed-top {
   border-bottom-width: 0;
-  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
 
 .navbar-default .navbar-nav li a {
